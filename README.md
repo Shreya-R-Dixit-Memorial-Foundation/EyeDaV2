@@ -6,6 +6,8 @@ Hello, World! We're thrilled to have you join us here in our digital space. This
 
 EyeDa is a technology venture that leverages AI and ML to develop smart solutions for distracted driving, a significant concern for road safety worldwide. With EyeDa, we aim to use cutting-edge technology to make our roads safer for everyone. By developing intuitive products that detect and discourage distracted driving, we strive to foster responsible driving habits and significantly decrease road accidents.
 
+### Also EyeDa loves Python
+
 ## For Our Interns
 
 To all our dedicated interns, welcome aboard! This repository will be an integral part of your journey with us. Here, you'll find code, project updates, communication threads, and everything else you need to make your time with us productive and enjoyable. You'll be directly contributing to the repository, shaping our solutions with your fresh ideas and skills. It's a place for you to learn, grow, and make a real impact!
