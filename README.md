@@ -1,4 +1,4 @@
-# Welcome to the EyeDa GitHub Repository!
+# Welcome to the EyeDa!
 
 Hello, World! We're thrilled to have you join us here in our digital space. This GitHub repository is the central hub for **EyeDa**, an innovative project by the **Shreya Dixit Foundation** that's charting a course into the fascinating world of Artificial Intelligence (AI). We are on a mission to build technology solutions that promote safer driving and reduce distractions on the road. Our current focus is **EyeDa V2**, a Machine Learning (ML)-based approach to identifying distracted driving.
 
