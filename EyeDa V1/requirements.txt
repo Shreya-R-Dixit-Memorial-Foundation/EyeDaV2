@@ -1,0 +1,5 @@
+autopy~=4.0.0
+seaborn~=0.11.2
+matplotlib~=3.5.2
+mediapipe~=0.8.10.1
+numpy~=1.21.6
