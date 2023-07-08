@@ -1,1 +1,1 @@
-For the Internship!
+This is the directory where the code for the EyeDa V2 App will be stored! Done by Shreya Dixit Interns!
