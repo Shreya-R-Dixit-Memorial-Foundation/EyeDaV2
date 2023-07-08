@@ -1,1 +1,1 @@
-This is the diectory where the code for the EyeDaa V2 App will be stored! Done by Shreya Dixit Interens!
+This is the directory where the code for the EyeDa V2 App will be stored! Done by Shreya Dixit Interns!
