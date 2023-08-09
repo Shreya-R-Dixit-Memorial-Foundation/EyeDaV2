@@ -1,0 +1,1796 @@
+{
+    "checksum": "W63FAOutxQCOTcYA",
+    "directions": [
+        {
+            "features": [
+                {
+                    "attributes": {
+                        "ETA": 1691159020000,
+                        "arriveTimeUTC": 1691184220000,
+                        "length": 0,
+                        "maneuverType": "esriDMTDepart",
+                        "text": "Start at Location 1",
+                        "time": 0
+                    },
+                    "compressedGeometry": "",
+                    "strings": [
+                        {
+                            "string": "2:24 PM",
+                            "stringType": "esriDSTEstimatedArrivalTime"
+                        },
+                        {
+                            "string": "Location 1",
+                            "stringType": "esriDSTStreetName"
+                        }
+                    ]
+                },
+                {
+                    "attributes": {
+                        "ETA": 1691159020000,
+                        "arriveTimeUTC": 1691184220000,
+                        "length": 0.024437317164099776,
+                        "maneuverType": "esriDMTStraight",
+                        "text": "Go northeast",
+                        "time": 0.05864982138880819
+                    },
+                    "compressedGeometry": "",
+                    "strings": [
+                        {
+                            "string": "2:24 PM",
+                            "stringType": "esriDSTEstimatedArrivalTime"
+                        }
+                    ]
+                },
+                {
+                    "attributes": {
+                        "ETA": 1691159023519,
+                        "arriveTimeUTC": 1691184223519,
+                        "length": 0.26671996261596675,
+                        "maneuverType": "esriDMTBearRight",
+                        "text": "Bear right on SW 12th Ave",
+                        "time": 1.2595810372943081
+                    },
+                    "compressedGeometry": "",
+                    "strings": [
+                        {
+                            "string": "2:24 PM",
+                            "stringType": "esriDSTEstimatedArrivalTime"
+                        },
+                        {
+                            "string": "SW 12th Ave",
+                            "stringType": "esriDSTStreetName"
+                        }
+                    ]
+                },
+                {
+                    "attributes": {
+                        "ETA": 1691159099094,
+                        "arriveTimeUTC": 1691184299094,
+                        "length": 0.32183981269836426,
+                        "maneuverType": "esriDMTTurnLeft",
+                        "text": "At the traffic light, turn left on SW Jefferson St",
+                        "time": 1.4771397935220338
+                    },
+                    "compressedGeometry": "",
+                    "strings": [
+                        {
+                            "string": "2:25 PM",
+                            "stringType": "esriDSTEstimatedArrivalTime"
+                        },
+                        {
+                            "string": "SW Jefferson St",
+                            "stringType": "esriDSTStreetName"
+                        }
+                    ]
+                },
+                {
+                    "attributes": {
+                        "ETA": 1691159187722,
+                        "arriveTimeUTC": 1691184387722,
+                        "length": 0.30920732293507036,
+                        "maneuverType": "esriDMTTurnRight",
+                        "text": "Turn right before the Esquire Motors on SW 18th Ave",
+                        "time": 3.0919208556132394
+                    },
+                    "compressedGeometry": "",
+                    "strings": [
+                        {
+                            "string": "2:26 PM",
+                            "stringType": "esriDSTEstimatedArrivalTime"
+                        },
+                        {
+                            "string": "SW 18th Ave",
+                            "stringType": "esriDSTStreetName"
+                        }
+                    ]
+                },
+                {
+                    "attributes": {
+                        "ETA": 1691159373237,
+                        "arriveTimeUTC": 1691184573237,
+                        "length": 0,
+                        "maneuverType": "esriDMTStop",
+                        "text": "Arrive at Location 2, on the right",
+                        "time": 0
+                    },
+                    "compressedGeometry": "",
+                    "strings": [
+                        {
+                            "string": "2:30 PM",
+                            "stringType": "esriDSTEstimatedArrivalTime"
+                        },
+                        {
+                            "string": "Location 2",
+                            "stringType": "esriDSTStreetName"
+                        }
+                    ]
+                },
+                {
+                    "attributes": {
+                        "ETA": 1691159373237,
+                        "arriveTimeUTC": 1691184573237,
+                        "length": 0,
+                        "maneuverType": "esriDMTDepart",
+                        "text": "Depart Location 2",
+                        "time": 0
+                    },
+                    "compressedGeometry": "",
+                    "strings": [
+                        {
+                            "string": "2:30 PM",
+                            "stringType": "esriDSTEstimatedArrivalTime"
+                        },
+                        {
+                            "string": "Location 2",
+                            "stringType": "esriDSTStreetName"
+                        }
+                    ]
+                },
+                {
+                    "attributes": {
+                        "ETA": 1691159373237,
+                        "arriveTimeUTC": 1691184573237,
+                        "length": 0.07171317537883343,
+                        "maneuverType": "esriDMTStraight",
+                        "text": "Go north on SW 18th Ave",
+                        "time": 0.7171348965416042
+                    },
+                    "compressedGeometry": "",
+                    "strings": [
+                        {
+                            "string": "2:30 PM",
+                            "stringType": "esriDSTEstimatedArrivalTime"
+                        },
+                        {
+                            "string": "SW 18th Ave",
+                            "stringType": "esriDSTStreetName"
+                        }
+                    ]
+                },
+                {
+                    "attributes": {
+                        "ETA": 1691159416266,
+                        "arriveTimeUTC": 1691184616266,
+                        "length": 0.9306493893051146,
+                        "maneuverType": "esriDMTTurnRight",
+                        "text": "At the traffic light, turn right on W Burnside St",
+                        "time": 5.017795867025792
+                    },
+                    "compressedGeometry": "",
+                    "strings": [
+                        {
+                            "string": "2:30 PM",
+                            "stringType": "esriDSTEstimatedArrivalTime"
+                        },
+                        {
+                            "string": "W Burnside St",
+                            "stringType": "esriDSTStreetName"
+                        }
+                    ]
+                },
+                {
+                    "attributes": {
+                        "ETA": 1691159717333,
+                        "arriveTimeUTC": 1691184917333,
+                        "length": 0.006795760307312011,
+                        "maneuverType": "esriDMTStraight",
+                        "text": "Continue forward on Burnside Brg",
+                        "time": 0.013670921325683594
+                    },
+                    "compressedGeometry": "",
+                    "strings": [
+                        {
+                            "string": "2:35 PM",
+                            "stringType": "esriDSTEstimatedArrivalTime"
+                        },
+                        {
+                            "string": "Burnside Brg",
+                            "stringType": "esriDSTStreetName"
+                        }
+                    ]
+                },
+                {
+                    "attributes": {
+                        "ETA": 1691159718154,
+                        "arriveTimeUTC": 1691184918154,
+                        "length": 0.8943737298202514,
+                        "maneuverType": "esriDMTStraight",
+                        "text": "Continue forward on W Burnside St",
+                        "time": 3.65552486580485
+                    },
+                    "compressedGeometry": "",
+                    "strings": [
+                        {
+                            "string": "2:35 PM",
+                            "stringType": "esriDSTEstimatedArrivalTime"
+                        },
+                        {
+                            "string": "W Burnside St",
+                            "stringType": "esriDSTStreetName"
+                        }
+                    ]
+                },
+                {
+                    "attributes": {
+                        "ETA": 1691159937485,
+                        "arriveTimeUTC": 1691185137485,
+                        "length": 0.04807994491577148,
+                        "maneuverType": "esriDMTTurnLeft",
+                        "text": "At the traffic light, turn left on NE 14th Ave",
+                        "time": 0.21915145661630042
+                    },
+                    "compressedGeometry": "",
+                    "strings": [
+                        {
+                            "string": "2:39 PM",
+                            "stringType": "esriDSTEstimatedArrivalTime"
+                        },
+                        {
+                            "string": "NE 14th Ave",
+                            "stringType": "esriDSTStreetName"
+                        }
+                    ]
+                },
+                {
+                    "attributes": {
+                        "ETA": 1691159950634,
+                        "arriveTimeUTC": 1691185150634,
+                        "length": 0.3140911763381958,
+                        "maneuverType": "esriDMTTurnRight",
+                        "text": "At the traffic light, turn right on NE Sandy Blvd",
+                        "time": 0.9119982111781617
+                    },
+                    "compressedGeometry": "",
+                    "strings": [
+                        {
+                            "string": "2:39 PM",
+                            "stringType": "esriDSTEstimatedArrivalTime"
+                        },
+                        {
+                            "string": "NE Sandy Blvd",
+                            "stringType": "esriDSTStreetName"
+                        }
+                    ]
+                },
+                {
+                    "attributes": {
+                        "ETA": 1691160005354,
+                        "arriveTimeUTC": 1691185205354,
+                        "length": 0.13719518890380858,
+                        "maneuverType": "esriDMTForkLeft",
+                        "text": "At the traffic light, keep left at the fork onto NE Sandy Blvd",
+                        "time": 0.529823603846804
+                    },
+                    "compressedGeometry": "",
+                    "strings": [
+                        {
+                            "string": "2:40 PM",
+                            "stringType": "esriDSTEstimatedArrivalTime"
+                        },
+                        {
+                            "string": "NE Sandy Blvd",
+                            "stringType": "esriDSTStreetName"
+                        }
+                    ]
+                },
+                {
+                    "attributes": {
+                        "ETA": 1691160037143,
+                        "arriveTimeUTC": 1691185237143,
+                        "length": 0.015658455734252927,
+                        "maneuverType": "esriDMTTurnRight",
+                        "text": "At the traffic light, turn right on NE 22nd Ave",
+                        "time": 0.04784090974096955
+                    },
+                    "compressedGeometry": "",
+                    "strings": [
+                        {
+                            "string": "2:41 PM",
+                            "stringType": "esriDSTEstimatedArrivalTime"
+                        },
+                        {
+                            "string": "NE 22nd Ave",
+                            "stringType": "esriDSTStreetName"
+                        }
+                    ]
+                },
+                {
+                    "attributes": {
+                        "ETA": 1691160040014,
+                        "arriveTimeUTC": 1691185240014,
+                        "length": 0.9718174273300171,
+                        "maneuverType": "esriDMTBearLeft",
+                        "text": "Bear left on NE Glisan St",
+                        "time": 2.8439969133094536
+                    },
+                    "compressedGeometry": "",
+                    "strings": [
+                        {
+                            "string": "2:41 PM",
+                            "stringType": "esriDSTEstimatedArrivalTime"
+                        },
+                        {
+                            "string": "NE Glisan St",
+                            "stringType": "esriDSTStreetName"
+                        }
+                    ]
+                },
+                {
+                    "attributes": {
+                        "ETA": 1691160210654,
+                        "arriveTimeUTC": 1691185410654,
+                        "length": 0.41714401035308835,
+                        "maneuverType": "esriDMTRoundabout",
+                        "text": "At the roundabout, take the second exit onto NE Glisan St",
+                        "time": 1.2170363788123737
+                    },
+                    "compressedGeometry": "",
+                    "strings": [
+                        {
+                            "string": "2:44 PM",
+                            "stringType": "esriDSTEstimatedArrivalTime"
+                        },
+                        {
+                            "string": "NE Glisan St",
+                            "stringType": "esriDSTStreetName"
+                        }
+                    ]
+                },
+                {
+                    "attributes": {
+                        "ETA": 1691160283676,
+                        "arriveTimeUTC": 1691185483676,
+                        "length": 0.01857352570936392,
+                        "maneuverType": "esriDMTTurnRight",
+                        "text": "At the traffic light, turn right on NE 47th Ave",
+                        "time": 0.07176836026216904
+                    },
+                    "compressedGeometry": "",
+                    "strings": [
+                        {
+                            "string": "2:45 PM",
+                            "stringType": "esriDSTEstimatedArrivalTime"
+                        },
+                        {
+                            "string": "NE 47th Ave",
+                            "stringType": "esriDSTStreetName"
+                        }
+                    ]
+                },
+                {
+                    "attributes": {
+                        "ETA": 1691160287982,
+                        "arriveTimeUTC": 1691185487982,
+                        "length": 0,
+                        "maneuverType": "esriDMTStop",
+                        "text": "Finish at Location 3, on the right",
+                        "time": 0
+                    },
+                    "compressedGeometry": "",
+                    "strings": [
+                        {
+                            "string": "2:45 PM",
+                            "stringType": "esriDSTEstimatedArrivalTime"
+                        },
+                        {
+                            "string": "Location 3",
+                            "stringType": "esriDSTStreetName"
+                        }
+                    ]
+                }
+            ],
+            "routeId": 1,
+            "routeName": "Location 1 - Location 3",
+            "summary": {
+                "envelope": {
+                    "spatialReference": {
+                        "latestWkid": 4326,
+                        "wkid": 4326
+                    },
+                    "xmax": -122.61496999999997,
+                    "xmin": -122.69256999999999,
+                    "ymax": 45.52669000000003,
+                    "ymin": 45.512624920000064
+                },
+                "totalDriveTime": 21.13303389228255,
+                "totalLength": 4.74829619950951,
+                "totalTime": 21.13303389228255
+            }
+        }
+    ],
+    "messages": [],
+    "polygonBarriers": {
+        "features": [],
+        "fieldAliases": {
+            "Attr_Kilometers": "Attr_Kilometers",
+            "Attr_Miles": "Attr_Miles",
+            "Attr_Minutes": "Attr_Minutes",
+            "Attr_TimeAt1KPH": "Attr_TimeAt1KPH",
+            "Attr_TravelTime": "Attr_TravelTime",
+            "Attr_TruckMinutes": "Attr_TruckMinutes",
+            "Attr_TruckTravelTime": "Attr_TruckTravelTime",
+            "Attr_WalkTime": "Attr_WalkTime",
+            "BarrierType": "BarrierType",
+            "Locations": "Locations",
+            "Name": "Name",
+            "ObjectID": "ObjectID",
+            "Shape_Area": "Shape_Area",
+            "Shape_Length": "Shape_Length"
+        },
+        "fields": [
+            {
+                "alias": "ObjectID",
+                "name": "ObjectID",
+                "type": "esriFieldTypeOID"
+            },
+            {
+                "alias": "Name",
+                "length": 500,
+                "name": "Name",
+                "type": "esriFieldTypeString"
+            },
+            {
+                "alias": "Locations",
+                "name": "Locations",
+                "type": "esriFieldTypeBlob"
+            },
+            {
+                "alias": "BarrierType",
+                "name": "BarrierType",
+                "type": "esriFieldTypeInteger"
+            },
+            {
+                "alias": "Attr_Minutes",
+                "name": "Attr_Minutes",
+                "type": "esriFieldTypeDouble"
+            },
+            {
+                "alias": "Attr_TravelTime",
+                "name": "Attr_TravelTime",
+                "type": "esriFieldTypeDouble"
+            },
+            {
+                "alias": "Attr_Miles",
+                "name": "Attr_Miles",
+                "type": "esriFieldTypeDouble"
+            },
+            {
+                "alias": "Attr_Kilometers",
+                "name": "Attr_Kilometers",
+                "type": "esriFieldTypeDouble"
+            },
+            {
+                "alias": "Attr_TimeAt1KPH",
+                "name": "Attr_TimeAt1KPH",
+                "type": "esriFieldTypeDouble"
+            },
+            {
+                "alias": "Attr_WalkTime",
+                "name": "Attr_WalkTime",
+                "type": "esriFieldTypeDouble"
+            },
+            {
+                "alias": "Attr_TruckMinutes",
+                "name": "Attr_TruckMinutes",
+                "type": "esriFieldTypeDouble"
+            },
+            {
+                "alias": "Attr_TruckTravelTime",
+                "name": "Attr_TruckTravelTime",
+                "type": "esriFieldTypeDouble"
+            },
+            {
+                "alias": "Shape_Length",
+                "name": "Shape_Length",
+                "type": "esriFieldTypeDouble"
+            },
+            {
+                "alias": "Shape_Area",
+                "name": "Shape_Area",
+                "type": "esriFieldTypeDouble"
+            }
+        ],
+        "geometryType": "esriGeometryPolygon",
+        "spatialReference": {
+            "latestWkid": 4326,
+            "wkid": 4326
+        }
+    },
+    "polylineBarriers": {
+        "features": [],
+        "fieldAliases": {
+            "Attr_Kilometers": "Attr_Kilometers",
+            "Attr_Miles": "Attr_Miles",
+            "Attr_Minutes": "Attr_Minutes",
+            "Attr_TimeAt1KPH": "Attr_TimeAt1KPH",
+            "Attr_TravelTime": "Attr_TravelTime",
+            "Attr_TruckMinutes": "Attr_TruckMinutes",
+            "Attr_TruckTravelTime": "Attr_TruckTravelTime",
+            "Attr_WalkTime": "Attr_WalkTime",
+            "BarrierType": "BarrierType",
+            "Locations": "Locations",
+            "Name": "Name",
+            "ObjectID": "ObjectID",
+            "Shape_Length": "Shape_Length"
+        },
+        "fields": [
+            {
+                "alias": "ObjectID",
+                "name": "ObjectID",
+                "type": "esriFieldTypeOID"
+            },
+            {
+                "alias": "Name",
+                "length": 500,
+                "name": "Name",
+                "type": "esriFieldTypeString"
+            },
+            {
+                "alias": "Locations",
+                "name": "Locations",
+                "type": "esriFieldTypeBlob"
+            },
+            {
+                "alias": "BarrierType",
+                "name": "BarrierType",
+                "type": "esriFieldTypeInteger"
+            },
+            {
+                "alias": "Attr_Minutes",
+                "name": "Attr_Minutes",
+                "type": "esriFieldTypeDouble"
+            },
+            {
+                "alias": "Attr_TravelTime",
+                "name": "Attr_TravelTime",
+                "type": "esriFieldTypeDouble"
+            },
+            {
+                "alias": "Attr_Miles",
+                "name": "Attr_Miles",
+                "type": "esriFieldTypeDouble"
+            },
+            {
+                "alias": "Attr_Kilometers",
+                "name": "Attr_Kilometers",
+                "type": "esriFieldTypeDouble"
+            },
+            {
+                "alias": "Attr_TimeAt1KPH",
+                "name": "Attr_TimeAt1KPH",
+                "type": "esriFieldTypeDouble"
+            },
+            {
+                "alias": "Attr_WalkTime",
+                "name": "Attr_WalkTime",
+                "type": "esriFieldTypeDouble"
+            },
+            {
+                "alias": "Attr_TruckMinutes",
+                "name": "Attr_TruckMinutes",
+                "type": "esriFieldTypeDouble"
+            },
+            {
+                "alias": "Attr_TruckTravelTime",
+                "name": "Attr_TruckTravelTime",
+                "type": "esriFieldTypeDouble"
+            },
+            {
+                "alias": "Shape_Length",
+                "name": "Shape_Length",
+                "type": "esriFieldTypeDouble"
+            }
+        ],
+        "geometryType": "esriGeometryPolyline",
+        "spatialReference": {
+            "latestWkid": 4326,
+            "wkid": 4326
+        }
+    },
+    "requestID": "6a544027-79c9-4d9d-b66b-57b0103f606e",
+    "routes": {
+        "features": [
+            {
+                "attributes": {
+                    "EndTime": 1691160287982,
+                    "EndTimeUTC": 1691185487982,
+                    "FirstStopID": 1,
+                    "LastStopID": 3,
+                    "Name": "Location 1 - Location 3",
+                    "ObjectID": 1,
+                    "SHAPE": {
+                        "paths": [
+                            [
+                                [
+                                    -122.68838520099996,
+                                    45.512624920000064
+                                ],
+                                [
+                                    -122.68836999999996,
+                                    45.51266000000004
+                                ],
+                                [
+                                    -122.68827999999996,
+                                    45.51297000000005
+                                ],
+                                [
+                                    -122.68811999999997,
+                                    45.51323000000008
+                                ],
+                                [
+                                    -122.68789999999996,
+                                    45.51362000000006
+                                ],
+                                [
+                                    -122.68775,
+                                    45.51388000000003
+                                ],
+                                [
+                                    -122.68744999999996,
+                                    45.51443000000006
+                                ],
+                                [
+                                    -122.68736999999999,
+                                    45.51457000000005
+                                ],
+                                [
+                                    -122.68718999999999,
+                                    45.514920000000075
+                                ],
+                                [
+                                    -122.68703999999997,
+                                    45.51523000000003
+                                ],
+                                [
+                                    -122.68662999999998,
+                                    45.515910000000076
+                                ],
+                                [
+                                    -122.68642999999997,
+                                    45.51624000000004
+                                ],
+                                [
+                                    -122.68625999999995,
+                                    45.51655000000005
+                                ],
+                                [
+                                    -122.6873,
+                                    45.51684000000006
+                                ],
+                                [
+                                    -122.68791999999996,
+                                    45.51699000000008
+                                ],
+                                [
+                                    -122.68836999999996,
+                                    45.51710000000003
+                                ],
+                                [
+                                    -122.69029999999998,
+                                    45.51761000000005
+                                ],
+                                [
+                                    -122.69192999999996,
+                                    45.517840000000035
+                                ],
+                                [
+                                    -122.69256999999999,
+                                    45.51794000000007
+                                ],
+                                [
+                                    -122.69248999999996,
+                                    45.51828000000006
+                                ],
+                                [
+                                    -122.69227999999998,
+                                    45.51865000000004
+                                ],
+                                [
+                                    -122.69165999999996,
+                                    45.51965000000007
+                                ],
+                                [
+                                    -122.69139999999999,
+                                    45.51998000000003
+                                ],
+                                [
+                                    -122.69127999999995,
+                                    45.52012000000008
+                                ],
+                                [
+                                    -122.69102999999996,
+                                    45.52046000000007
+                                ],
+                                [
+                                    -122.69080999999994,
+                                    45.52081000000004
+                                ],
+                                [
+                                    -122.69030999999995,
+                                    45.52181000000007
+                                ],
+                                [
+                                    -122.69018805499996,
+                                    45.522058521000076
+                                ]
+                            ],
+                            [
+                                [
+                                    -122.69018805499996,
+                                    45.522058521000076
+                                ],
+                                [
+                                    -122.69016999999997,
+                                    45.52216000000004
+                                ],
+                                [
+                                    -122.69010999999995,
+                                    45.52228000000008
+                                ],
+                                [
+                                    -122.68969999999996,
+                                    45.52281000000005
+                                ],
+                                [
+                                    -122.68951999999996,
+                                    45.522980000000075
+                                ],
+                                [
+                                    -122.68787999999995,
+                                    45.52291000000008
+                                ],
+                                [
+                                    -122.68716999999998,
+                                    45.52288000000004
+                                ],
+                                [
+                                    -122.68654999999995,
+                                    45.52290000000005
+                                ],
+                                [
+                                    -122.68607999999995,
+                                    45.522920000000056
+                                ],
+                                [
+                                    -122.68578999999994,
+                                    45.52293000000003
+                                ],
+                                [
+                                    -122.68519999999995,
+                                    45.52293000000003
+                                ],
+                                [
+                                    -122.68449999999996,
+                                    45.52294000000006
+                                ],
+                                [
+                                    -122.68411999999995,
+                                    45.52294000000006
+                                ],
+                                [
+                                    -122.68020999999999,
+                                    45.52300000000008
+                                ],
+                                [
+                                    -122.68006999999994,
+                                    45.52300000000008
+                                ],
+                                [
+                                    -122.67992999999996,
+                                    45.52300000000008
+                                ],
+                                [
+                                    -122.67930999999999,
+                                    45.523010000000056
+                                ],
+                                [
+                                    -122.67908999999997,
+                                    45.523010000000056
+                                ],
+                                [
+                                    -122.67888999999997,
+                                    45.523010000000056
+                                ],
+                                [
+                                    -122.67859999999996,
+                                    45.523010000000056
+                                ],
+                                [
+                                    -122.67845999999997,
+                                    45.523010000000056
+                                ],
+                                [
+                                    -122.67834999999997,
+                                    45.523010000000056
+                                ],
+                                [
+                                    -122.67745999999994,
+                                    45.52304000000004
+                                ],
+                                [
+                                    -122.67588999999998,
+                                    45.523070000000075
+                                ],
+                                [
+                                    -122.67501999999996,
+                                    45.52308000000005
+                                ],
+                                [
+                                    -122.67437999999999,
+                                    45.523090000000025
+                                ],
+                                [
+                                    -122.67403999999999,
+                                    45.523090000000025
+                                ],
+                                [
+                                    -122.67377999999997,
+                                    45.523090000000025
+                                ],
+                                [
+                                    -122.67335999999995,
+                                    45.523090000000025
+                                ],
+                                [
+                                    -122.67274999999995,
+                                    45.523090000000025
+                                ],
+                                [
+                                    -122.67192999999997,
+                                    45.523090000000025
+                                ],
+                                [
+                                    -122.67131999999998,
+                                    45.523100000000056
+                                ],
+                                [
+                                    -122.67091999999997,
+                                    45.523100000000056
+                                ],
+                                [
+                                    -122.67035999999996,
+                                    45.523100000000056
+                                ],
+                                [
+                                    -122.67021999999997,
+                                    45.523100000000056
+                                ],
+                                [
+                                    -122.66960999999998,
+                                    45.523090000000025
+                                ],
+                                [
+                                    -122.66918999999996,
+                                    45.52308000000005
+                                ],
+                                [
+                                    -122.66868,
+                                    45.523070000000075
+                                ],
+                                [
+                                    -122.66666999999995,
+                                    45.52303000000006
+                                ],
+                                [
+                                    -122.66649999999998,
+                                    45.52303000000006
+                                ],
+                                [
+                                    -122.66590999999994,
+                                    45.523010000000056
+                                ],
+                                [
+                                    -122.66579999999999,
+                                    45.523010000000056
+                                ],
+                                [
+                                    -122.66511999999994,
+                                    45.523010000000056
+                                ],
+                                [
+                                    -122.66479999999996,
+                                    45.52299000000005
+                                ],
+                                [
+                                    -122.66386999999997,
+                                    45.52297000000004
+                                ],
+                                [
+                                    -122.66317999999995,
+                                    45.52297000000004
+                                ],
+                                [
+                                    -122.66273999999999,
+                                    45.52297000000004
+                                ],
+                                [
+                                    -122.66228999999998,
+                                    45.52296000000007
+                                ],
+                                [
+                                    -122.66176999999999,
+                                    45.52295000000004
+                                ],
+                                [
+                                    -122.66071999999997,
+                                    45.52294000000006
+                                ],
+                                [
+                                    -122.66013999999996,
+                                    45.52294000000006
+                                ],
+                                [
+                                    -122.65987999999999,
+                                    45.52294000000006
+                                ],
+                                [
+                                    -122.65462999999994,
+                                    45.522920000000056
+                                ],
+                                [
+                                    -122.65430999999995,
+                                    45.522920000000056
+                                ],
+                                [
+                                    -122.65362999999996,
+                                    45.52291000000008
+                                ],
+                                [
+                                    -122.65329999999994,
+                                    45.52291000000008
+                                ],
+                                [
+                                    -122.65249999999997,
+                                    45.52290000000005
+                                ],
+                                [
+                                    -122.65212999999994,
+                                    45.52290000000005
+                                ],
+                                [
+                                    -122.65179999999998,
+                                    45.52290000000005
+                                ],
+                                [
+                                    -122.65157999999997,
+                                    45.52302000000003
+                                ],
+                                [
+                                    -122.65156999999999,
+                                    45.52321000000006
+                                ],
+                                [
+                                    -122.65157999999997,
+                                    45.523520000000076
+                                ],
+                                [
+                                    -122.65137999999996,
+                                    45.523700000000076
+                                ],
+                                [
+                                    -122.65119999999996,
+                                    45.52377000000007
+                                ],
+                                [
+                                    -122.65099999999995,
+                                    45.52385000000004
+                                ],
+                                [
+                                    -122.64983999999998,
+                                    45.524320000000046
+                                ],
+                                [
+                                    -122.64922999999999,
+                                    45.52455000000003
+                                ],
+                                [
+                                    -122.64773999999994,
+                                    45.525100000000066
+                                ],
+                                [
+                                    -122.64597999999995,
+                                    45.52574000000004
+                                ],
+                                [
+                                    -122.64547999999996,
+                                    45.52592000000004
+                                ],
+                                [
+                                    -122.64397999999994,
+                                    45.52649000000008
+                                ],
+                                [
+                                    -122.64349999999996,
+                                    45.52669000000003
+                                ],
+                                [
+                                    -122.64344999999997,
+                                    45.526590000000056
+                                ],
+                                [
+                                    -122.64333999999997,
+                                    45.526500000000055
+                                ],
+                                [
+                                    -122.64289999999994,
+                                    45.526470000000074
+                                ],
+                                [
+                                    -122.64143999999999,
+                                    45.526470000000074
+                                ],
+                                [
+                                    -122.63930999999997,
+                                    45.526470000000074
+                                ],
+                                [
+                                    -122.63922999999994,
+                                    45.526470000000074
+                                ],
+                                [
+                                    -122.63721999999996,
+                                    45.526470000000074
+                                ],
+                                [
+                                    -122.63668999999999,
+                                    45.526470000000074
+                                ],
+                                [
+                                    -122.63622999999995,
+                                    45.526470000000074
+                                ],
+                                [
+                                    -122.63488999999998,
+                                    45.526470000000074
+                                ],
+                                [
+                                    -122.62813999999997,
+                                    45.526440000000036
+                                ],
+                                [
+                                    -122.62480999999997,
+                                    45.526440000000036
+                                ],
+                                [
+                                    -122.62453999999997,
+                                    45.526440000000036
+                                ],
+                                [
+                                    -122.62383999999997,
+                                    45.526440000000036
+                                ],
+                                [
+                                    -122.62336999999997,
+                                    45.52630000000005
+                                ],
+                                [
+                                    -122.62323999999995,
+                                    45.526200000000074
+                                ],
+                                [
+                                    -122.62299999999999,
+                                    45.52615000000003
+                                ],
+                                [
+                                    -122.62275999999997,
+                                    45.526200000000074
+                                ],
+                                [
+                                    -122.62268999999998,
+                                    45.526260000000036
+                                ],
+                                [
+                                    -122.62214999999998,
+                                    45.52643000000006
+                                ],
+                                [
+                                    -122.62169999999998,
+                                    45.52643000000006
+                                ],
+                                [
+                                    -122.62078999999994,
+                                    45.52642000000003
+                                ],
+                                [
+                                    -122.62001999999995,
+                                    45.52642000000003
+                                ],
+                                [
+                                    -122.61822999999998,
+                                    45.52642000000003
+                                ],
+                                [
+                                    -122.61730999999997,
+                                    45.526410000000055
+                                ],
+                                [
+                                    -122.61670999999996,
+                                    45.526410000000055
+                                ],
+                                [
+                                    -122.61616999999995,
+                                    45.526410000000055
+                                ],
+                                [
+                                    -122.61554999999998,
+                                    45.52642000000003
+                                ],
+                                [
+                                    -122.61523999999997,
+                                    45.526440000000036
+                                ],
+                                [
+                                    -122.61496999999997,
+                                    45.526470000000074
+                                ],
+                                [
+                                    -122.61496999999997,
+                                    45.52620100000007
+                                ]
+                            ]
+                        ],
+                        "spatialReference": {
+                            "latestWkid": 4326,
+                            "wkid": 4326
+                        }
+                    },
+                    "Shape_Length": 0.0930711945379615,
+                    "StartTime": 1691159020000,
+                    "StartTimeUTC": 1691184220000,
+                    "StopCount": 3,
+                    "Total_Kilometers": 7.641656661102903,
+                    "Total_Miles": 4.748171009672019,
+                    "Total_TravelTime": 21.13303389228255
+                },
+                "geometry": {
+                    "paths": [
+                        [
+                            [
+                                -122.68838520099996,
+                                45.512624920000064
+                            ],
+                            [
+                                -122.68836999999996,
+                                45.51266000000004
+                            ],
+                            [
+                                -122.68827999999996,
+                                45.51297000000005
+                            ],
+                            [
+                                -122.68811999999997,
+                                45.51323000000008
+                            ],
+                            [
+                                -122.68789999999996,
+                                45.51362000000006
+                            ],
+                            [
+                                -122.68775,
+                                45.51388000000003
+                            ],
+                            [
+                                -122.68744999999996,
+                                45.51443000000006
+                            ],
+                            [
+                                -122.68736999999999,
+                                45.51457000000005
+                            ],
+                            [
+                                -122.68718999999999,
+                                45.514920000000075
+                            ],
+                            [
+                                -122.68703999999997,
+                                45.51523000000003
+                            ],
+                            [
+                                -122.68662999999998,
+                                45.515910000000076
+                            ],
+                            [
+                                -122.68642999999997,
+                                45.51624000000004
+                            ],
+                            [
+                                -122.68625999999995,
+                                45.51655000000005
+                            ],
+                            [
+                                -122.6873,
+                                45.51684000000006
+                            ],
+                            [
+                                -122.68791999999996,
+                                45.51699000000008
+                            ],
+                            [
+                                -122.68836999999996,
+                                45.51710000000003
+                            ],
+                            [
+                                -122.69029999999998,
+                                45.51761000000005
+                            ],
+                            [
+                                -122.69192999999996,
+                                45.517840000000035
+                            ],
+                            [
+                                -122.69256999999999,
+                                45.51794000000007
+                            ],
+                            [
+                                -122.69248999999996,
+                                45.51828000000006
+                            ],
+                            [
+                                -122.69227999999998,
+                                45.51865000000004
+                            ],
+                            [
+                                -122.69165999999996,
+                                45.51965000000007
+                            ],
+                            [
+                                -122.69139999999999,
+                                45.51998000000003
+                            ],
+                            [
+                                -122.69127999999995,
+                                45.52012000000008
+                            ],
+                            [
+                                -122.69102999999996,
+                                45.52046000000007
+                            ],
+                            [
+                                -122.69080999999994,
+                                45.52081000000004
+                            ],
+                            [
+                                -122.69030999999995,
+                                45.52181000000007
+                            ],
+                            [
+                                -122.69018805499996,
+                                45.522058521000076
+                            ]
+                        ],
+                        [
+                            [
+                                -122.69018805499996,
+                                45.522058521000076
+                            ],
+                            [
+                                -122.69016999999997,
+                                45.52216000000004
+                            ],
+                            [
+                                -122.69010999999995,
+                                45.52228000000008
+                            ],
+                            [
+                                -122.68969999999996,
+                                45.52281000000005
+                            ],
+                            [
+                                -122.68951999999996,
+                                45.522980000000075
+                            ],
+                            [
+                                -122.68787999999995,
+                                45.52291000000008
+                            ],
+                            [
+                                -122.68716999999998,
+                                45.52288000000004
+                            ],
+                            [
+                                -122.68654999999995,
+                                45.52290000000005
+                            ],
+                            [
+                                -122.68607999999995,
+                                45.522920000000056
+                            ],
+                            [
+                                -122.68578999999994,
+                                45.52293000000003
+                            ],
+                            [
+                                -122.68519999999995,
+                                45.52293000000003
+                            ],
+                            [
+                                -122.68449999999996,
+                                45.52294000000006
+                            ],
+                            [
+                                -122.68411999999995,
+                                45.52294000000006
+                            ],
+                            [
+                                -122.68020999999999,
+                                45.52300000000008
+                            ],
+                            [
+                                -122.68006999999994,
+                                45.52300000000008
+                            ],
+                            [
+                                -122.67992999999996,
+                                45.52300000000008
+                            ],
+                            [
+                                -122.67930999999999,
+                                45.523010000000056
+                            ],
+                            [
+                                -122.67908999999997,
+                                45.523010000000056
+                            ],
+                            [
+                                -122.67888999999997,
+                                45.523010000000056
+                            ],
+                            [
+                                -122.67859999999996,
+                                45.523010000000056
+                            ],
+                            [
+                                -122.67845999999997,
+                                45.523010000000056
+                            ],
+                            [
+                                -122.67834999999997,
+                                45.523010000000056
+                            ],
+                            [
+                                -122.67745999999994,
+                                45.52304000000004
+                            ],
+                            [
+                                -122.67588999999998,
+                                45.523070000000075
+                            ],
+                            [
+                                -122.67501999999996,
+                                45.52308000000005
+                            ],
+                            [
+                                -122.67437999999999,
+                                45.523090000000025
+                            ],
+                            [
+                                -122.67403999999999,
+                                45.523090000000025
+                            ],
+                            [
+                                -122.67377999999997,
+                                45.523090000000025
+                            ],
+                            [
+                                -122.67335999999995,
+                                45.523090000000025
+                            ],
+                            [
+                                -122.67274999999995,
+                                45.523090000000025
+                            ],
+                            [
+                                -122.67192999999997,
+                                45.523090000000025
+                            ],
+                            [
+                                -122.67131999999998,
+                                45.523100000000056
+                            ],
+                            [
+                                -122.67091999999997,
+                                45.523100000000056
+                            ],
+                            [
+                                -122.67035999999996,
+                                45.523100000000056
+                            ],
+                            [
+                                -122.67021999999997,
+                                45.523100000000056
+                            ],
+                            [
+                                -122.66960999999998,
+                                45.523090000000025
+                            ],
+                            [
+                                -122.66918999999996,
+                                45.52308000000005
+                            ],
+                            [
+                                -122.66868,
+                                45.523070000000075
+                            ],
+                            [
+                                -122.66666999999995,
+                                45.52303000000006
+                            ],
+                            [
+                                -122.66649999999998,
+                                45.52303000000006
+                            ],
+                            [
+                                -122.66590999999994,
+                                45.523010000000056
+                            ],
+                            [
+                                -122.66579999999999,
+                                45.523010000000056
+                            ],
+                            [
+                                -122.66511999999994,
+                                45.523010000000056
+                            ],
+                            [
+                                -122.66479999999996,
+                                45.52299000000005
+                            ],
+                            [
+                                -122.66386999999997,
+                                45.52297000000004
+                            ],
+                            [
+                                -122.66317999999995,
+                                45.52297000000004
+                            ],
+                            [
+                                -122.66273999999999,
+                                45.52297000000004
+                            ],
+                            [
+                                -122.66228999999998,
+                                45.52296000000007
+                            ],
+                            [
+                                -122.66176999999999,
+                                45.52295000000004
+                            ],
+                            [
+                                -122.66071999999997,
+                                45.52294000000006
+                            ],
+                            [
+                                -122.66013999999996,
+                                45.52294000000006
+                            ],
+                            [
+                                -122.65987999999999,
+                                45.52294000000006
+                            ],
+                            [
+                                -122.65462999999994,
+                                45.522920000000056
+                            ],
+                            [
+                                -122.65430999999995,
+                                45.522920000000056
+                            ],
+                            [
+                                -122.65362999999996,
+                                45.52291000000008
+                            ],
+                            [
+                                -122.65329999999994,
+                                45.52291000000008
+                            ],
+                            [
+                                -122.65249999999997,
+                                45.52290000000005
+                            ],
+                            [
+                                -122.65212999999994,
+                                45.52290000000005
+                            ],
+                            [
+                                -122.65179999999998,
+                                45.52290000000005
+                            ],
+                            [
+                                -122.65157999999997,
+                                45.52302000000003
+                            ],
+                            [
+                                -122.65156999999999,
+                                45.52321000000006
+                            ],
+                            [
+                                -122.65157999999997,
+                                45.523520000000076
+                            ],
+                            [
+                                -122.65137999999996,
+                                45.523700000000076
+                            ],
+                            [
+                                -122.65119999999996,
+                                45.52377000000007
+                            ],
+                            [
+                                -122.65099999999995,
+                                45.52385000000004
+                            ],
+                            [
+                                -122.64983999999998,
+                                45.524320000000046
+                            ],
+                            [
+                                -122.64922999999999,
+                                45.52455000000003
+                            ],
+                            [
+                                -122.64773999999994,
+                                45.525100000000066
+                            ],
+                            [
+                                -122.64597999999995,
+                                45.52574000000004
+                            ],
+                            [
+                                -122.64547999999996,
+                                45.52592000000004
+                            ],
+                            [
+                                -122.64397999999994,
+                                45.52649000000008
+                            ],
+                            [
+                                -122.64349999999996,
+                                45.52669000000003
+                            ],
+                            [
+                                -122.64344999999997,
+                                45.526590000000056
+                            ],
+                            [
+                                -122.64333999999997,
+                                45.526500000000055
+                            ],
+                            [
+                                -122.64289999999994,
+                                45.526470000000074
+                            ],
+                            [
+                                -122.64143999999999,
+                                45.526470000000074
+                            ],
+                            [
+                                -122.63930999999997,
+                                45.526470000000074
+                            ],
+                            [
+                                -122.63922999999994,
+                                45.526470000000074
+                            ],
+                            [
+                                -122.63721999999996,
+                                45.526470000000074
+                            ],
+                            [
+                                -122.63668999999999,
+                                45.526470000000074
+                            ],
+                            [
+                                -122.63622999999995,
+                                45.526470000000074
+                            ],
+                            [
+                                -122.63488999999998,
+                                45.526470000000074
+                            ],
+                            [
+                                -122.62813999999997,
+                                45.526440000000036
+                            ],
+                            [
+                                -122.62480999999997,
+                                45.526440000000036
+                            ],
+                            [
+                                -122.62453999999997,
+                                45.526440000000036
+                            ],
+                            [
+                                -122.62383999999997,
+                                45.526440000000036
+                            ],
+                            [
+                                -122.62336999999997,
+                                45.52630000000005
+                            ],
+                            [
+                                -122.62323999999995,
+                                45.526200000000074
+                            ],
+                            [
+                                -122.62299999999999,
+                                45.52615000000003
+                            ],
+                            [
+                                -122.62275999999997,
+                                45.526200000000074
+                            ],
+                            [
+                                -122.62268999999998,
+                                45.526260000000036
+                            ],
+                            [
+                                -122.62214999999998,
+                                45.52643000000006
+                            ],
+                            [
+                                -122.62169999999998,
+                                45.52643000000006
+                            ],
+                            [
+                                -122.62078999999994,
+                                45.52642000000003
+                            ],
+                            [
+                                -122.62001999999995,
+                                45.52642000000003
+                            ],
+                            [
+                                -122.61822999999998,
+                                45.52642000000003
+                            ],
+                            [
+                                -122.61730999999997,
+                                45.526410000000055
+                            ],
+                            [
+                                -122.61670999999996,
+                                45.526410000000055
+                            ],
+                            [
+                                -122.61616999999995,
+                                45.526410000000055
+                            ],
+                            [
+                                -122.61554999999998,
+                                45.52642000000003
+                            ],
+                            [
+                                -122.61523999999997,
+                                45.526440000000036
+                            ],
+                            [
+                                -122.61496999999997,
+                                45.526470000000074
+                            ],
+                            [
+                                -122.61496999999997,
+                                45.52620100000007
+                            ]
+                        ]
+                    ],
+                    "spatialReference": {
+                        "latestWkid": 4326,
+                        "wkid": 4326
+                    }
+                }
+            }
+        ],
+        "fieldAliases": {
+            "EndTime": "EndTime",
+            "EndTimeUTC": "EndTimeUTC",
+            "FirstStopID": "FirstStopID",
+            "LastStopID": "LastStopID",
+            "Name": "Name",
+            "ObjectID": "ObjectID",
+            "Shape_Length": "Shape_Length",
+            "StartTime": "StartTime",
+            "StartTimeUTC": "StartTimeUTC",
+            "StopCount": "StopCount",
+            "Total_Kilometers": "Total_Kilometers",
+            "Total_Miles": "Total_Miles",
+            "Total_TravelTime": "Total_TravelTime"
+        },
+        "fields": [
+            {
+                "alias": "ObjectID",
+                "name": "ObjectID",
+                "type": "esriFieldTypeOID"
+            },
+            {
+                "alias": "Name",
+                "length": 1024,
+                "name": "Name",
+                "type": "esriFieldTypeString"
+            },
+            {
+                "alias": "FirstStopID",
+                "name": "FirstStopID",
+                "type": "esriFieldTypeInteger"
+            },
+            {
+                "alias": "LastStopID",
+                "name": "LastStopID",
+                "type": "esriFieldTypeInteger"
+            },
+            {
+                "alias": "StopCount",
+                "name": "StopCount",
+                "type": "esriFieldTypeInteger"
+            },
+            {
+                "alias": "StartTime",
+                "length": 16,
+                "name": "StartTime",
+                "type": "esriFieldTypeDate"
+            },
+            {
+                "alias": "EndTime",
+                "length": 16,
+                "name": "EndTime",
+                "type": "esriFieldTypeDate"
+            },
+            {
+                "alias": "StartTimeUTC",
+                "length": 16,
+                "name": "StartTimeUTC",
+                "type": "esriFieldTypeDate"
+            },
+            {
+                "alias": "EndTimeUTC",
+                "length": 16,
+                "name": "EndTimeUTC",
+                "type": "esriFieldTypeDate"
+            },
+            {
+                "alias": "Total_TravelTime",
+                "name": "Total_TravelTime",
+                "type": "esriFieldTypeDouble"
+            },
+            {
+                "alias": "Total_Miles",
+                "name": "Total_Miles",
+                "type": "esriFieldTypeDouble"
+            },
+            {
+                "alias": "Total_Kilometers",
+                "name": "Total_Kilometers",
+                "type": "esriFieldTypeDouble"
+            },
+            {
+                "alias": "Shape_Length",
+                "name": "Shape_Length",
+                "type": "esriFieldTypeDouble"
+            }
+        ],
+        "geometryType": "esriGeometryPolyline",
+        "spatialReference": {
+            "latestWkid": 4326,
+            "wkid": 4326
+        }
+    }
+}
