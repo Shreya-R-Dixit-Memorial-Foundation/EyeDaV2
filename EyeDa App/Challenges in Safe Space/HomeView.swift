@@ -1,6 +1,6 @@
 import SwiftUI
 import Combine
-import HealthKit // Import HealthKit framework
+import HealthKit 
 
 class AppLifecycleObserver: ObservableObject {
     private var cancellables: Set<AnyCancellable> = []
