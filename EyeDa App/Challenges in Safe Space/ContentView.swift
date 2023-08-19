@@ -34,6 +34,8 @@ struct TabBarItem: View {
         self.icon = icon
         self.label = label
         self.iconColor = Color(UIColor(hex: iconColorHex))
+        UINavigationBar.appearance().tintColor = UIColor.blue // Set a more visible color
+
     }
 
     var body: some View {
@@ -51,6 +53,7 @@ struct ContentView: View {
             NavigationView {
                 HomeView()
             }
+            .accentColor(.blue)
             .tabItem {
                 TabBarItem(icon: "house.fill", label: "Home", iconColorHex: "#1A5944")
             }
@@ -58,8 +61,9 @@ struct ContentView: View {
             NavigationView {
                 SettingsView()
             }
+            .accentColor(.blue)
             .tabItem {
-                TabBarItem(icon: "gearshape.fill", label: "Settings", iconColorHex: "#1A5944")
+                TabBarItem(icon: "gearshape.fill", label: "Settings", iconColorHex: "#00FF29")
             }
             
             NavigationView {
