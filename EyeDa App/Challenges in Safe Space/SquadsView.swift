@@ -1,7 +1,6 @@
 import SwiftUI
 
 struct SquadsView: View {
-    // Define the LeaderboardEntry struct here
     struct LeaderboardEntry: Identifiable {
         let id = UUID()
         let rank: Int
@@ -9,7 +8,7 @@ struct SquadsView: View {
         let score: Int
     }
 
-    // Sample leaderboard data (replace this with your actual data)
+    // Sample leaderboard data (replace w/ actual data)
     let leaderboardData = [
         LeaderboardEntry(rank: 1, username: "U1", score: 100),
         LeaderboardEntry(rank: 2, username: "U2", score: 85),
@@ -17,14 +16,13 @@ struct SquadsView: View {
         LeaderboardEntry(rank: 4, username: "U4", score: 50),
     ]
 
-    // Define the badge milestones here
     let milestones: [String] = [
         "Five trips with perfect cornering",
         "Nine trips with perfect braking",
         "100 trips with a score above 70"
     ]
 
-    // Dummy data to simulate progress
+    // dummy data
     let progressData: [Double] = [3, 7, 85] // Replace with actual progress data
 
     var body: some View {
@@ -37,7 +35,6 @@ struct SquadsView: View {
                 .frame(maxWidth: .infinity, alignment: .leading)
                 .background(Color(hex: "#72BFA1"))
 
-            // Badge Milestones section
             VStack(alignment: .leading) {
                 Text("Badge Milestones")
                     .font(.title)
@@ -63,7 +60,6 @@ struct SquadsView: View {
             .background(Color(hex: "#2B2934"))
             .cornerRadius(12)
 
-            // Leaderboard list view
             List {
                 ForEach(leaderboardData) { entry in
                     LeaderboardRow(entry: entry)
@@ -71,13 +67,11 @@ struct SquadsView: View {
             }
             .listStyle(PlainListStyle())
 
-            // Your existing code for the rest of the squad view...
         }
     }
 }
 
 
-// LeaderboardRow implementation
 struct LeaderboardRow: View {
     let entry: SquadsView.LeaderboardEntry
 
@@ -100,7 +94,6 @@ struct LeaderboardRow: View {
     }
 }
 
-// ProgressBar implementation
 struct ProgressBar: View {
     let value: Double
     let total: Double
